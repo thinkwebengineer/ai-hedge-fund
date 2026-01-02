@@ -21,7 +21,7 @@ def sentiment_agent(state: AgentState):
     for ticker in tickers:
         progress.update_status("sentiment_agent", ticker, "Fetching insider trades")
 
-        # Get the insider trades
+        # Get the insider tradesk;ajsdflkjasdfl;kj
         insider_trades = get_insider_trades(
             ticker=ticker,
             end_date=end_date,

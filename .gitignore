@@ -43,3 +43,6 @@ Thumbs.db
 
 # Txt files
 *.txt
+
+.gemini/
+gha-creds-*.json
